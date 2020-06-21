@@ -1,0 +1,10 @@
+1. Created a Submission folder in my home directory with the command: mkdir Submissions
+2. Changed the permission of the Submission folder with the command: chmod 750 Submissions
+3. Copied the The Hunger Games.txt from cumoja1 to my home directory with the command: cp "The Hunger Games.txt" ~/ 
+4. Used Vi to open up The Hunger Games.txt with the command: vi "The Hunger Games.txt"
+5. To change all occurances of the characters name that i wanted to replace i hit <Esc> and then typed :%s/Prim/Jonathan/g
+6. Then quit the file and saved it using :wq
+7. Then I moved "The Hunger Games.txt" files into the Submission folder using: cp "The Hunger Games.txt" Submissions/
+
+Homework Update:
+1. The command I would have used to make the folder accessible to execute and view for the professsor and TA is: CHGRP faculty Submissions
